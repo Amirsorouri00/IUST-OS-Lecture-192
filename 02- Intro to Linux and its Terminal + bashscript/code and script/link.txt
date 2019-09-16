@@ -1,0 +1,2 @@
+https://linuxhint.com/30_bash_script_examples/#t1
+https://github.com/ruanyf/simple-bash-scripts/tree/master/scripts
