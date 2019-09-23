@@ -100,7 +100,7 @@ After the above operation, the ptr will point to the location 1004 because each 
 
 A pointer to a pointer is a form of multiple indirection, or a chain of pointers. Normally, a pointer contains the address of a variable. When we define a pointer to a pointer, the first pointer contains the address of the second pointer, which points to the location that contains the actual value as shown below.
 
-![pointer_to_pointer](https://github.com/Amirsorouri00/Iran-University-ST-OS191/blob/master/pointer_to_pointer.jpg)
+![pointer_to_pointer](https://github.com/Amirsorouri00/Iran-University-ST-OS191/blob/master/00-%20Intro%20to%20C%20Programming/11-%20c_pointer/pointer_to_pointer.jpg)
 
 A variable that is a pointer to a pointer must be declared as such. This is done by placing an additional asterisk in front of its name. For example, the following declaration declares a pointer to a pointer of type int −
 

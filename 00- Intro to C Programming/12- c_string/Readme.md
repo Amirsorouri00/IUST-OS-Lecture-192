@@ -12,7 +12,7 @@ char greeting[] = "Hello";
 ````
 Following is the memory presentation of the above defined string in C/C++ −
 
-![string_representation](https://github.com/Amirsorouri00/Iran-University-ST-OS191/blob/master/string_representation.jpg)
+![string_representation](https://github.com/Amirsorouri00/Iran-University-ST-OS191/blob/master/00-%20Intro%20to%20C%20Programming/12-%20c_string/string_representation.jpg)
 
 C supports a wide range of functions that manipulate null-terminated strings −
 - **strcpy(s1, s2);** -->  Copies string s2 into string s1.

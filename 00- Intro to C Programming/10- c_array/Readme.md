@@ -24,7 +24,7 @@ type arrayName [ x ][ y ];
 
 Where type can be any valid C data type and arrayName will be a valid C identifier. A two-dimensional array can be considered as a table which will have x number of rows and y number of columns. A two-dimensional array a, which contains three rows and four columns can be shown as follows −
 
-![two_dimensional_arrays](https://github.com/Amirsorouri00/Iran-University-ST-OS191/blob/master/two_dimensional_arrays.jpg)
+![two_dimensional_arrays](https://github.com/Amirsorouri00/Iran-University-ST-OS191/blob/master/00-%20Intro%20to%20C%20Programming/10-%20c_array/two_dimensional_arrays.jpg)
 
 
 #### Initializing Two-Dimensional Arrays
